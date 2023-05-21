@@ -1,5 +1,5 @@
-# ProductNameIdentification
-Identify custom/specific product names that share similar symbols
+# Product Line Identification
+Identify custom/specific product lines that share similar symbols
 
 ## Method
 * fuzzy/exact match + scoring alogrithm
