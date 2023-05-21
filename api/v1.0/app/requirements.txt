@@ -1,0 +1,9 @@
+transformers[sentencepiece]==4.22.2
+pandas==1.4.4
+numpy==1.22.2
+re==2.2.1
+rapidfuzz==2.11.1
+tableau-api-lib
+openpyxl
+inflect
+tqdm
